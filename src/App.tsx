@@ -118,7 +118,7 @@ export default function App() {
   }
 
   return (
-    <div className='flex flex-col min-[680px]:flex-row gap-10 my-8'>
+    <div className='flex flex-col min-[680px]:flex-row gap-10 my-8 min-[680px]:my-20 lg:w-[1000px] mx-auto'>
       <div className='flex-[2] h-full'>
         <div className='mx-2'>
           <h1 className='text-2xl font-bold mb-4'>Map with Weather</h1>
