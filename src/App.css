@@ -1,0 +1,8 @@
+.marker {
+  background-image: url("assets/info.svg"); 
+  border: none; 
+  cursor: pointer; 
+  color: black;
+  height: 20px; 
+  width: 20px;
+}
